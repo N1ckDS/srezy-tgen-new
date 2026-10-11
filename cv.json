@@ -1,1 +1,1 @@
-{"name": "constant", "metric": "quantile_quality_x100", "folds": [66.53, 69.14, 68.34, 68.11], "cv": 68.03, "std": 0.95}
+{"name": "lgb_stratified", "metric": "quantile_quality_x100", "folds": [73.51, 73.63, 73.19, 74.41], "cv": 73.69, "std": 0.45}
