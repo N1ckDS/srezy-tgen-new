@@ -1,1 +1,1 @@
-{"name": "constant", "metric": "quantile_quality_x100", "folds": [55.26, 54.98, 52.59, 57.24], "cv": 55.02, "std": 1.65}
+{"name": "constant", "metric": "quantile_quality_x100", "folds": [66.53, 69.14, 68.34, 68.11], "cv": 68.03, "std": 0.95}
